@@ -1,3 +1,6 @@
+                                                    /*بسم الله الرحمن الرحي*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,7 +21,7 @@ int main()
             else
                 cout << "NO" << endl;
         }
-
+        
         else
         {
             int f = 0;
@@ -41,7 +44,6 @@ int main()
                 else
                     cout << "NO" << endl;
             }
-
         }
     }
     return 0;
