@@ -1,3 +1,6 @@
+
+                                                    /*بسم الله الرحمن الرحي*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
