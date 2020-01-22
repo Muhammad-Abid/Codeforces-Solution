@@ -1,3 +1,6 @@
+
+                                                    /*بسم الله الرحمن الرحي*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -23,5 +26,4 @@ int main()
             cout << s[i] << endl;
         }
     }
-
 }
